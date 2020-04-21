@@ -1,7 +1,7 @@
 {
   "id": "github",
   "name": "GitHub",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GitHub",
   "main": "index.js",
   "author": "Sudhir Ganesan",
@@ -9,7 +9,7 @@
   "config": {
     "serviceURL": "https://github.com/",
     "hasNotificationSound": false,
-    "hasDirectMessages": true,
-    "hasIndirectMessages": false
+    "hasDirectMessages": false,
+    "hasIndirectMessages": true
   }
 }
